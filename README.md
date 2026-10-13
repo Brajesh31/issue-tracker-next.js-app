@@ -66,3 +66,5 @@ GOOGLE_CLIENT_SECRET=""
 ### Issue Details Page
 
 ![Issue Details](/issue_details_page_screenshot.jpg)
+
+Last updated: 2026-10-13 15:53 UTC
